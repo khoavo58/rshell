@@ -4,7 +4,7 @@ Main Contributors: Khoa Vo, Annie Du
 
 This is a basic command shell that takes commands from the bin/bash directory.
 
-Currently, the project can:
+Currently, the Rshell can:
 
     Take in single line commands with ';' '||' '&&' connectors in different combinations.
     Execute all commands according to the connectors and available commands in the specified directory.
